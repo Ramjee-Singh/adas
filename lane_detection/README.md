@@ -1,3 +1,7 @@
+The Project Here Detects Lane On A Track.
+Dependency Open CV
+Resources Used test_image, test_video
+
 Install CV 
 
 	Create virtual env 
